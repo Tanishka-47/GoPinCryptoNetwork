@@ -26,8 +26,8 @@ Offline-first blockchain payment system with privacy and identity.
 
 ### 1. Clone Repo
 ```bash
-git clone https://github.com/yourusername/go-pin-crypto-network.git
-cd go-pin-crypto-network
+git clone https://github.com/Tanishka-47/GoPinCryptoNetwork.git
+cd GoPinCryptoNetwork
 ```
 
 ### 2. Start Frontend
